@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "BUMP OF CHICKEN「ray」",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-01-12T10:38:28.070491Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BUMP OF CHICKENのテーマ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_BUMP_OF_CHICKENのテーマ_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
